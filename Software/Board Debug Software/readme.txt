@@ -1,0 +1,1 @@
+This program only sending positive signals to each port in order. And prints to log analog reads. Nothing more.
